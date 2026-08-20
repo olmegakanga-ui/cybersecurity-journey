@@ -7,3 +7,5 @@ Month 1 (Aug-Sep 2026) : Linux fundamentals and command line.
 ## Index
 - [OverTheWire Bandit](./overthewire/bandit/)
 - [Notes](./notes/)
+
+Started: 2026-08-20
